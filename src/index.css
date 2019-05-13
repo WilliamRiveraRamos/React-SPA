@@ -1,0 +1,45 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0; 
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  
+    background: #16BFFD;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CB3066, #16BFFD);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CB3066, #16BFFD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.MainTitle {
+  color: whitesmoke;
+  margin-left: 10px;
+}
+
+h1 {
+  color: #003172;
+  margin-bottom: 1rem;
+}
+
+h5 {
+  margin-top: 1.5rem;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; 
+  background-color: #dbd800;  
+}
+
+footer p {
+  margin-left: 20px;
+  margin-top: 17px;
+}
