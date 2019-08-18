@@ -1,5 +1,5 @@
 ### Screenshot
-![React SPA main page](http://velozityweb.com/WRivera/screenshoots/iPhone_6_7_8_Plus.png width=400px)
+![React SPA main page](http://velozityweb.com/WRivera/screenshoots/iPhone_6_7_8_Plus.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
