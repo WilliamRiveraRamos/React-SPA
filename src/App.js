@@ -34,8 +34,11 @@ import {
 
           <div className="container">
             <h1 className="mt-3 MainTitle">
-              <img src="/react-logo.png" alt="React JS logo" width="64" height="64" className="mr-2" />
-                React SPA
+              <img src="/react-logo.png" className="mr-2"
+              alt="React JS logo"
+              width="64"
+              height="64" />
+              React SPA
             </h1>
           </div>
           
@@ -55,7 +58,7 @@ import {
 
     const Footer = () => {
       return(
-        <footer>
+        <footer className="fixed-bottom">
           <p>&copy;2019</p>
         </footer>
       )
