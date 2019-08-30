@@ -22,9 +22,13 @@ body {
   margin-left: 10px;
 }
 
+.jumbotron {
+  margin-bottom: 7rem;
+}
+
 h1 {
   color: #003172;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 h5 {
