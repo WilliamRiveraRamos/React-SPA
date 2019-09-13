@@ -1,5 +1,9 @@
 ### Screenshot
+<<<<<<< HEAD
 ![React SPA main page](http://velozityweb.com/WRivera/screenshoots/react-spa.png)
+=======
+![React SPA main page](http://velozityweb.com/WRivera/screenshoots/iPhone_6_7_8_Plus.png)
+>>>>>>> bb2c5b522de191cd31e262756aa4aa1caf7d9bd0
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
