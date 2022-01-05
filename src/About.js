@@ -9,9 +9,9 @@ class About extends Component {
                         <div className="card mt-4">
                             <div className="card-body">
                                 <h1>About Page</h1>
-                                <p>A single-page application made with React, React Router, and Bootstrap.</p>
+                                <p>A <b>S</b>ingle-<b>P</b>age <b>A</b>pplication (SPA) made with React, React Router, and Bootstrap.</p>
                                 <ul>
-                                    <li>Version: 0.1.0</li>
+                                    <li>Version: 0.0.2</li>
                                     <li>React: 16.8.6</li>
                                     <li>React Router: 5.0.0</li>
                                     <li>Node: 10.15.2</li>
