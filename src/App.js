@@ -11,7 +11,6 @@ import {
   import Blog from './Blog';
   import About from './About';
   import Contact from './Contact';
-
   
 class App extends Component {
 	render() {
